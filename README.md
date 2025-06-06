@@ -1,11 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Vinamra Sharma</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">🚀 A Passionate Full Stack Developer & DSA Enthusiast from India</h3>
+
+<p align="center">
+  💻 Building modern web apps with the MERN stack & exploring scalable architectures <br/>
+  🧠 Sharpening my problem-solving skills through Data Structures & Algorithms <br/>
+  🌱 Currently learning TypeScript, Next.js, and diving deeper into AWS & DevOps <br/>
+  🤝 Open to exciting projects, collaborations, and tech opportunities
+</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinamra052367&label=Profile%20views&color=0e75b6&style=flat" alt="Vinamra05" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vinamra05" alt="Vinamra05" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imdeveshshukla&label=Profile%20views&color=0e75b6&style=flat" alt="Vinamra Sharma" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imdeveshshukla" alt="imdeveshshukla" /></a> </p>
 
 <img src="https://i.giphy.com/jTNG3RF6EwbkpD4LZx.webp" alt="Coding" width="400" align="right">
 
@@ -47,6 +54,9 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
@@ -75,6 +85,9 @@
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   </a>
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="40" height="40"/>
@@ -142,7 +155,11 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
+  </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="40" height="40"/>
   </a>
 </p>
+
