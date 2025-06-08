@@ -19,19 +19,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/vinamrasharma" target="_blank">
+  <a href="https://linkedin.com/in/vinamrasharma" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Vinamra" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/vinamra._.bhardwaj_" target="_blank">
+  <a href="https://instagram.com/vinamra._.bhardwaj_" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - Vinamra" height="30" width="40" />
   </a>
   <a href="mailto:vinamrasharma0523@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail - Vinamra" height="30" width="40" />
   </a>
-  <a href="tel:+919548640422" target="_blank">
+  <a href="tel:+919548640422">
     <img align="center" src="https://img.icons8.com/ios-filled/50/000000/phone.png" alt="Phone - Vinamra" height="30" width="40" />
   </a>
-  <a href="https://x.com/VinamraSharma05" target="_blank">
+  <a href="https://x.com/VinamraSharma05" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - Vinamra" height="30" width="40" />
   </a>
 </p>
