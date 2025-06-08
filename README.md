@@ -12,7 +12,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdeveshshukla&label=Profile%20views&color=0e75b6&style=flat" alt="Vinamra Sharma" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imdeveshshukla" alt="imdeveshshukla" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imdeveshshukla" alt="Vinamra Sharma" /></a> </p>
 
 <img src="https://i.giphy.com/jTNG3RF6EwbkpD4LZx.webp" alt="Coding" width="400" align="right">
 
